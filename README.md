@@ -12,16 +12,15 @@ Implements:
 - MongoDB running locally (or a MongoDB URI)
 
 ## Run Backend
-cd backend
-cp .env.example .env
-npm install
-npm run dev
+- cd backend
+- npm install
+- npm run dev
 
 Backend: http://localhost:5000/health
 
 ## Run Frontend
-cd ../frontend
-npm install
-npm run dev
+- cd ../frontend
+- npm install
+- npm run dev
 
 Frontend: http://localhost:5173
